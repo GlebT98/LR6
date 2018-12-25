@@ -1,0 +1,21 @@
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\obj\Debug\LR6.csprojResolveAssemblyReference.cache
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\bin\Debug\LR6.exe.config
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\bin\Debug\LR6.exe
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\bin\Debug\LR6.pdb
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\obj\Debug\LR6.exe
+D:\Gleb\2 курс 18-19\БКИТ\Лабы\LR6\LR6\obj\Debug\LR6.pdb
+C:\Users\glebt\Desktop\LR6\LR6\bin\Debug\LR6.exe.config
+C:\Users\glebt\Desktop\LR6\LR6\bin\Debug\LR6.exe
+C:\Users\glebt\Desktop\LR6\LR6\bin\Debug\LR6.pdb
+C:\Users\glebt\Desktop\LR6\LR6\obj\Debug\LR6.csprojResolveAssemblyReference.cache
+C:\Users\glebt\Desktop\LR6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+C:\Users\glebt\Desktop\LR6\LR6\obj\Debug\LR6.exe
+C:\Users\glebt\Desktop\LR6\LR6\obj\Debug\LR6.pdb
+D:\2 kurs 18-19\LR6\LR6\bin\Debug\LR6.exe.config
+D:\2 kurs 18-19\LR6\LR6\bin\Debug\LR6.exe
+D:\2 kurs 18-19\LR6\LR6\bin\Debug\LR6.pdb
+D:\2 kurs 18-19\LR6\LR6\obj\Debug\LR6.csprojResolveAssemblyReference.cache
+D:\2 kurs 18-19\LR6\LR6\obj\Debug\LR6.csproj.CoreCompileInputs.cache
+D:\2 kurs 18-19\LR6\LR6\obj\Debug\LR6.exe
+D:\2 kurs 18-19\LR6\LR6\obj\Debug\LR6.pdb
